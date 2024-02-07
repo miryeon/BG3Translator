@@ -16,8 +16,8 @@
 4. 스크립트가 현재 디렉토리에있는 모든 xml을 번역합니다.
 
 ## 필요 조건
-- Python 3
-- `googletrans` 라이브러리 (`pip install googletrans`로 설치)
+- Python 3 (설치 과정에서 PATH 설정)
+- `googletrans` 라이브러리 (`pip install googletrans==3.1.0a0`로 설치)
 
 ## `googletrans` 사용법
 이 스크립트는 `googletrans` 라이브러리를 사용하여 텍스트를 번역합니다. 이 라이브러리는 Google의 무료 번역 API를 활용하여 다양한 언어 간의 번역을 지원합니다. 
